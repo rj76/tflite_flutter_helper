@@ -1,5 +1,3 @@
-Adds support to image to buffer conversion of floating point pixel images for those with a need to input floating point pixels values.
-
 # TensorFlow Lite Flutter Helper Library
 
 Makes use of TensorFlow Lite Interpreter on Flutter easier by
